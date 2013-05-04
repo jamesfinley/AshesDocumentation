@@ -1,3 +1,23 @@
+# Share Anywhere
+
+## Variables
+
+Text selection grabs the current text selection from the article or browser. If no selection is available, use item title.
+``[[[textselection]]]``
+
+Title grabs either the item title or browser title
+``[[[title]]]``
+
+``[[[feedtitle]]]``
+
+If selection, “``[[[textselection]]]``” via ``[[[feedtitle]]]`` ``[[[url]]]``
+If no selection, ``[[[title]]] [[[url]]]``
+``[[[post]]]``
+
+``[[[url]]]``
+
+``[[[callback]]]``
+
 ## Examples
 
 **Share by Mail**  
