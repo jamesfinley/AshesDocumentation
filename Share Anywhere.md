@@ -15,7 +15,7 @@
 **If no selection, ``[[[title]]] [[[url]]]``**  
 ``[[[post]]]``
 
-**Current item or page (in browser) URL** 
+**Current item or page (in browser) URL**  
 ``[[[url]]]``
 
 **If the app supports x-callback, uses this to send back to Ashes.**  
