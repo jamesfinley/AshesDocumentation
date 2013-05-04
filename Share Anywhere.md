@@ -12,9 +12,10 @@
 ``[[[feedtitle]]]``
 
 **If selection, “``[[[textselection]]]``” via ``[[[feedtitle]]]`` ``[[[url]]]``**  
-**If no selection, ``[[[title]]] [[[url]]]``**
+**If no selection, ``[[[title]]] [[[url]]]``**  
 ``[[[post]]]``
 
+**Current item or page (in browser) URL** 
 ``[[[url]]]``
 
 **If the app supports x-callback, uses this to send back to Ashes.**  
