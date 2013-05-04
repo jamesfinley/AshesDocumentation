@@ -21,6 +21,11 @@
 **If the app supports x-callback, uses this to send back to Ashes.**  
 ``[[[callback]]]``
 
+## Making a URL
+**Each Share Anywhere link needs a title and the URL. The title identifies it in the share menu. Each of these need to be URL encoded.**  
+**The format is:**  
+``ashes://addOpenURL?title=&url=``
+
 ## Examples
 
 **Share by Mail**  
