@@ -2,20 +2,22 @@
 
 ## Variables
 
-Text selection grabs the current text selection from the article or browser. If no selection is available, use item title.
+**Text selection grabs the current text selection from the article or browser. If no selection is available, use item title.**  
 ``[[[textselection]]]``
 
-Title grabs either the item title or browser title
+**Title grabs either the item title or browser title**  
 ``[[[title]]]``
 
+**Feed title isn't available in the Browser, clearly.**  
 ``[[[feedtitle]]]``
 
-If selection, “``[[[textselection]]]``” via ``[[[feedtitle]]]`` ``[[[url]]]``
-If no selection, ``[[[title]]] [[[url]]]``
+**If selection, “``[[[textselection]]]``” via ``[[[feedtitle]]]`` ``[[[url]]]``**  
+**If no selection, ``[[[title]]] [[[url]]]``**
 ``[[[post]]]``
 
 ``[[[url]]]``
 
+**If the app supports x-callback, uses this to send back to Ashes.**  
 ``[[[callback]]]``
 
 ## Examples
