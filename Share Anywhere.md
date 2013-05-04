@@ -1,5 +1,7 @@
 # Share Anywhere
 
+Share Anywhere allows you to add inter-app communication to Ashes. If an app, take Tumblr, supports openURL, we can easily create a URL to send info from Ashes to Tumblr. ``tumblr://x-callback-url/link?title=[[[title]]]&url=[[[url]]]&description=[[[textselection]]]&x-success=[[[callback]]]&x-cancel=[[[callback]]]`` will send you to Tumblr to create a new Link post with the item title, url, and current text selection, and when done will send you back to Ashes. See the list of variables below and learn how to add a Share Anywhere link to Ashes.
+
 ## Variables
 
 **Text selection grabs the current text selection from the article or browser. If no selection is available, use item title.**  
